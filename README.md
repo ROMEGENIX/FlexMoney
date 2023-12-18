@@ -61,11 +61,13 @@ Start the server
 
 ## workflow of user
 
-![flow diagram](https://user-images.githubusercontent.com/64638825/207106511-3dae3131-c99c-4273-95c7-e342a020b8cf.jpg)
+![flow diagram](https://github.com/ROMEGENIX/FlexMoney/assets/108136013/5233007c-383b-4987-9fbb-fe12c36753b9)
+)
 
 ## E-R diagram 
 
-![er_diagram](https://user-images.githubusercontent.com/64638825/207106574-24a969b6-ddd0-4564-aef3-85ab51502af5.jpg)
+![er_diagram](https://github.com/ROMEGENIX/FlexMoney/assets/108136013/322b853c-cd6a-4be3-bcd0-18d84b478e8a)
+)
 
 ## Along with registration i used nodemailer to send confirmation mail to user .
 
@@ -74,9 +76,6 @@ Start the server
 
 ## All data validation are done on client side so that no unnecessary api calls are made 
 ![accountincalid](https://user-images.githubusercontent.com/64638825/207107511-4f721607-7d61-45bd-89a6-691a31eb090f.jpg)
-
-## Registraion ui 
-![registration](https://user-images.githubusercontent.com/64638825/207109951-772a5984-6c88-4aa0-8d2d-78e28979476c.jpg)
 
 ## payment ui ![payment](https://user-images.githubusercontent.com/64638825/207110014-2028415c-348e-4422-a6a9-bb1781e29f73.jpg)
 
@@ -95,5 +94,3 @@ Start the server
 - Connected with backend 
 - Hosted backend and front end
 
-## Check it out
-[![Frontend](https://img.shields.io/badge/Project-deployed-blue?style=for-the-badge&logo=appveyor)](https://luminous-sunburst-b9effb.netlify.app/)
