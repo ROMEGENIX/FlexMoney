@@ -1,0 +1,22 @@
+Certainly! Here's a high-level flow of how everything will work within the system for the admission form for the Classes:
+Participant Enrollment:
+Participants will access the admission form to enroll in the Classes.
+They will provide their personal details, including name, age, and contact information.
+The system will check the age of the participant to ensure it falls within the acceptable range (18-65).
+Participants will select the batch they wish to enroll in for the upcoming month.
+Payment Process:
+After enrolling, participants will be required to make the monthly payment of 500/- Rs INR.
+The system will update the PaymentStatus attribute for the participant to "Paid" upon successful payment.
+Batch Assignment:
+Instructors will be assigned to specific batches by updating the InstructorID attribute in the Batch entity.
+Each batch will have a designated time slot and a corresponding instructor.
+Class Sessions:
+Participants will attend the classes based on their enrolled batch and the assigned instructor.
+Instructors will conduct the classes according to their schedules and the allocated batches.
+Monthly Updates:
+At the beginning of each month, participants can choose to stay in the same batch or switch to a different one for the upcoming month.
+The system will allow participants to update their batch preferences for the next month.
+Instructor Management:
+Instructors will manage their schedules and conduct classes based on the assigned batches.
+They will have access to the schedule of classes they are responsible for.
+This flow outlines the key steps involved in participant enrollment, payment, batch assignment, class sessions, and monthly updates within the system for the Classes admission form. It ensures a smooth and organized process for both participants and instructors.
